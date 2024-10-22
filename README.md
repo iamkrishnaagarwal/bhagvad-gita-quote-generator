@@ -18,5 +18,4 @@ This is a simple Python web scraper that extracts verses from the Bhagavad Gita 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/bhagavad_gita_scraper.git
-   cd bhagavad_gita_scraper
+   git clone https://github.com/iamkrishnaagarwal/bhagvad-gita-quote-generator.git
